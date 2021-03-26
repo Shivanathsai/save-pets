@@ -9,7 +9,7 @@ accordingly.
 
 # We had built an online platform for pet adoption in which user can: 
 
- > List pet animals with their breeds. <br>
+ > List of pet animals with their breeds. <br>
  >List pet animals with their category(either dogs or cats). <br>
  >Add pet for adoption. <br>
  >Request pet for adoption. <br>
