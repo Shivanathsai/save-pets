@@ -23,7 +23,7 @@ accordingly.
 >REACT.JS<br>
 >BOOTSTRAP<br>
 >NODE.JS<br>
->CSS <br>                                                                                   
+>CSS<br>                                                                                   
 >MONGODB<br>
 >EXPRESS.JS<br>
 
