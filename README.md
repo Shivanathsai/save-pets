@@ -1,5 +1,5 @@
 
-# save-pets
+# save - pets
 The main goal of the application is to save the abandoned animal and find a suitable
 home for pet animals. This application is designed to help everyday users browse for a pet 
 with all the pet details. Our idea of this application is to facilitate both users and organizations 
