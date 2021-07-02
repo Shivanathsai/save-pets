@@ -9,6 +9,13 @@ router.get('/', async function (req, res) {
   const like = await db.collection('likes').find({ $and: [{ username: req.session.username }, { category: "dog" }] }).toArray();
   let likeSet = new Set(like.map(elem => elem.pet_id));
 
+
+
+
+
+
+  ////////
+
   db.collection("petsinfo").find({ category: "dog" }).sort({ _id: -1 }).toArray(function (err, result) {
     if (err) throw err;
     let liked = [];
